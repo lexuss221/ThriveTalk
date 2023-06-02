@@ -210,3 +210,158 @@ width: 592px;
 height: 210px;
 margin-left: 225px;
 }
+
+.help{
+    background: #FFFFFF;
+}
+
+.help-title{
+    font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.06em;
+color: #22356F;
+opacity: 50%;
+margin-bottom: 24px;
+}
+
+.help-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.help-line1{
+    width: 250px;
+    border: 0.5px solid white;
+    margin-bottom: 23px;
+    list-style-type: none;
+    margin-left: -25px;
+}
+
+li{
+    list-style: none;
+}
+
+.help-weight-lifting{
+    background: #FFE2DE;
+    font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+width: 232px; 
+height: 54px;
+color: #FFFFFF;
+padding: 95px 50px 211px 78px;
+margin-left: -40px;
+margin-bottom: 120px;
+letter-spacing: 2px;
+}
+
+.help-running{
+    font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+background: #C4E769;
+padding: 95px 50px 100px 78px;
+color: #FFFFFF;
+width: 230px;
+margin-bottom: 120px;
+letter-spacing: 2px;
+}
+
+.help-pumping_iron1{
+    font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+margin-bottom: 120px;
+color: #FFFFFF;
+background: #62D0DF;
+padding: 95px 55px 100px 78px;
+letter-spacing: 2px;
+}
+
+.help-pumping_iron2{
+    font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+background: #0052C1;
+margin-bottom: 120px;
+padding: 95px 57.4px 100px 78px;
+letter-spacing: 2px;
+}
+
+.help-line2{
+    width: 340px;
+    border: 0.5px solid white;
+    margin-bottom: 23px;
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.help-physical{
+    background: #22356F;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 82px 222px 282px 104px;
+    color: #FFFFFF;
+    margin-left: -40px;
+    width: 152px;
+    line-height: 45px;
+    letter-spacing: 2px;
+}
+
+.help-mental{
+    background: #0052C1;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 82px 222px 282px 104px;
+    color: #FFFFFF;
+    width: 157px;
+    line-height: 45px;
+    letter-spacing: 2px;
+}
+
+.help-nutrition{
+    background: url(img/Mask\ Group2.png) no-repeat;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 100px 140px 282px 104px;
+    color: #FFFFFF;
+    margin-right: -100px;
+    letter-spacing: 2px;
+}
+
+.help-gymnastics{
+    background: #62D0DF;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 135px 73px 282px 104px;
+    color: #FFFFFF;
+    margin-left: -40px;
+    letter-spacing: 2px;
+}
+
+.help-crossfit{
+    background: #DEE1FF;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 135px 77px 282px 104px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
+
+.help-aerobics{
+    background: #8F00FF;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    padding: 135px 73px 282px 104px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
