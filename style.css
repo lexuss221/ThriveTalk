@@ -448,5 +448,72 @@ margin-top: 225px;
     color: #FFFFFF;
 }
 
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #22356F;
+    margin-top: -4px;
+    margin-right: -4px;
+}
+
+.contact-us{
+    padding-left: 180px;
+}
+
+.contact-us-title{
+    font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+margin-top: 103px;
+color: #FFFFFF;
+
+}
+
+.contact-title-text{
+    font-size: 64px;
+line-height: 94px;
+letter-spacing: -0.01em;
+margin-top: 230px;
+color: #FFFFFF;
+}
+
+.contact-text{
+    font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.005em;
+width: 579px;
+color: #FFFFFF;
+margin-top: 45px;
+}
+
+.contact-get-help{
+    font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+margin-top: 45px;
+color: #62D0DF;
+background: transparent;
+    cursor: pointer;
+    padding: 10px 30px;
+    border: none;
+    margin-bottom: 42px;
+}
+
+.contact-image{
+    margin-bottom: -5px;
+}
+
+.contact-get-help:hover{
+    background: #62D0DF;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #22356F;
+}
 
 
