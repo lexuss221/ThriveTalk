@@ -516,4 +516,68 @@ background: transparent;
     color: #22356F;
 }
 
+.end{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.end-lists{
+    display: flex;
+    flex-direction: row;
+    margin-right: 140px;
+    margin-top: 98px;
+}
+
+.list-title{
+    font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+margin-bottom: 40px;
+color: #22356F;
+
+}
+
+.info-text{
+    font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+width: 207px;
+color: rgba(34, 53, 111, 0.5);
+}
+
+.adress-text{
+    font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+width: 240px;
+color: rgba(34, 53, 111, 0.5);
+margin-bottom: 30px;
+}
+
+.number{
+    font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+text-decoration: none;
+color: rgba(34, 53, 111, 0.5);
+}
+
+.email-link{
+    font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+text-decoration: none;
+color: #006DFF;
+}
+
+.list-hours{
+    font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.01em;
+
+color: rgba(34, 53, 111, 0.5);
+
+}
+
 
